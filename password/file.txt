@@ -1,0 +1,23 @@
+Esercizio validazione password:
+
+La password deve essere validata solo in queste specifiche condizioni:
+
+-Deve contenere almeno 8 caratteri
+
+-Deve contenere almeno una lettere maiuscola
+
+-Deve contenere almeno un numero
+
+-Deve contenere almeno un carattere speciale
+
+
+
+EXTRA 1: Rifattorizzare il codice tramite l'uso delle funzioni
+
+EXTRA 2: Implementare un metodo che faccia reinserire la password 
+qualora le regole non fossero rispettate e che interrompa 
+il programma in caso di password accettata.
+
+EXTRA 3: Visualizzare eventualmente quale campo non e’ stato inserito
+
+
